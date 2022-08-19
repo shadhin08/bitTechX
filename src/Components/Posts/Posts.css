@@ -1,0 +1,16 @@
+.paddingAndMargin
+{
+    text-align: center;
+    margin: 20px 5px;
+    /* border: 2px solid red; */
+    padding: 5px 85px;
+}
+@media(min-width: 765px)
+{
+    .paddingAndMargin
+    {
+        width: 700px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}

@@ -1,0 +1,29 @@
+.profileSection
+{
+    margin: 10px 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+/* .profilePicture 
+{
+    width: 40px;
+}
+.IdName
+{
+    font-size: medium;
+} */
+#storiesCount
+{
+    font-weight: 400;
+    font-size: small;
+    color: gray;
+}
+.followButton
+{
+    background-color: transparent;
+    border: none;
+    padding-left: 10px;
+    margin-left: 10px;
+    font-size: medium;
+    color: aqua;
+}

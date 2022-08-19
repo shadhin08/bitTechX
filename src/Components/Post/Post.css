@@ -1,0 +1,56 @@
+.singlePost
+{
+    padding: 5px;
+    border-radius: 5px;
+    overflow: hidden;
+}
+.contentTitle
+{
+    border-radius: 5px;
+    padding: 5px;
+    overflow: hidden;
+}
+.titleImage img
+{
+    border-radius: 3px 25px 3px 3px;
+    /* max-width: 150px; */
+}
+
+.profilePicture
+{
+    width: 28px;
+}
+.IdName
+{
+    padding: 3px 0px 0px 10px;
+    font-size: 10px;
+}
+.travelLogo
+{
+    width: 20px;
+}
+.upperSection
+{
+    padding-bottom: 5px;
+    border-bottom: 0.5px dotted gray;
+}
+.downSection
+{
+    padding-top: 5px;
+    font-size: 12px;
+    color: gray;
+}
+#hashtags
+{
+    color: black;
+    margin-left: 10px;
+    font-weight: 650;
+}
+.contentPost
+{
+    margin-top: 10px;
+}
+.contentPost p
+{
+    font-size: small;
+}
